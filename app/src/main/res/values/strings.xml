@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QRscanner</string>
+    <string name="title">Hello</string>
+    <string name="link">Link</string>
+    <string name="visit_link">Visit link</string>
+</resources>
